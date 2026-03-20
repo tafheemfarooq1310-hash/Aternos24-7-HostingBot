@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TKVS_SMP.aternos.me",
+    "ip": "TKVS_SMP.aternos.me:54864",
     "port": 54864,
     "version": "",
     "try-creative": false
